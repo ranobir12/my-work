@@ -60,4 +60,7 @@ section{
     border-image: linear-gradient(180deg,blue, cyan);
     border-image-slice: 1;
 }
+footer{
+    text-align: center;
+}
 
